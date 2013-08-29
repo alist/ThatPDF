@@ -128,7 +128,6 @@
 		4521C5B01360DCC300DD4856 /* ReaderDocument.m in Sources */ = {isa = PBXBuildFile; fileRef = 4521C5AE1360DCC300DD4856 /* ReaderDocument.m */; };
 		452825231434FF9F00744EB2 /* DirectoryWatcher.m in Sources */ = {isa = PBXBuildFile; fileRef = 452825221434FF9F00744EB2 /* DirectoryWatcher.m */; };
 		452E1F90161203E600192ED2 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 452E1F8F161203E600192ED2 /* README.md */; };
-		452E1F94161203EE00192ED2 /* LICENSE.md in Resources */ = {isa = PBXBuildFile; fileRef = 452E1F92161203EE00192ED2 /* LICENSE.md */; };
 		4552C17513413EB00000C190 /* Settings.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 4552C17413413EB00000C190 /* Settings.bundle */; };
 		45550E4F1612086C003F2FAA /* ReaderDocumentOutline.m in Sources */ = {isa = PBXBuildFile; fileRef = 45550E4E1612086C003F2FAA /* ReaderDocumentOutline.m */; };
 		4567BAE01347751600311D51 /* CoreDataManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 4567BADF1347751600311D51 /* CoreDataManager.m */; };
@@ -861,7 +860,6 @@
 				45E2B4EC144CC68E00B497D0 /* help.html in Resources */,
 				459D1AD7144CD72600EF4614 /* help.css in Resources */,
 				452E1F90161203E600192ED2 /* README.md in Resources */,
-				452E1F94161203EE00192ED2 /* LICENSE.md in Resources */,
 				0288558B17A898DE004B5CCF /* FPPicker.bundle in Resources */,
 				0288559517A8C75F004B5CCF /* leaseagreement.pdf in Resources */,
 				0288559617A8C75F004B5CCF /* nda.pdf in Resources */,
